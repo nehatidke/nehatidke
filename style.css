@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, sans-serif;
+    background: linear-gradient(135deg, #0f172a, #1e293b);
+    color: white;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+}
+
+textarea {
+    width: 70%;
+    height: 150px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+
+button {
+    padding: 12px 25px;
+    background: #3b82f6;
+    color: white;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background: #2563eb;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 20px;
+}
